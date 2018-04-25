@@ -3,7 +3,7 @@
  * @author dilorus
  */
 
-// supervisor is        0 by default
+// supervisor is        0 by default 
 //                      -1 if listed as supervisor without own supervisor
 //                      -2 if has multiple supervisors
 public class HW5B {
